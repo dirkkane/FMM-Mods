@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/dirkkane/FMM-Mods/refs/heads/master/2020_Vision/2020vision.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/FMMUpdateNeeded/FMMUpdateNeeded.ini
