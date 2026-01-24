@@ -3,7 +3,7 @@ ECHO FMM_OUTPUT Installing 2020 Vision...
 
 cd mods\tagMods\2020_Vision
 set moddir="%cd%"
-set setvar=setvariable moddir %cd%
+set setvar=setvariable moddir "%cd%"
 
 (
 	echo %setvar%

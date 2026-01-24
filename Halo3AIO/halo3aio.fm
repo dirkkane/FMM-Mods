@@ -1,0 +1,18 @@
+@ECHO off
+ECHO FMM_OUTPUT Installing Halo 3 All-In-One...
+
+cd mods\tagMods\Halo3AIO
+set moddir="%cd%"
+set setvar=setvariable moddir "%cd%"
+
+if exist Halo3AIO.zip (
+	tar -xf Halo3AIO.zip
+	del Halo3AIO.zip
+)
+
+
+(
+	echo %setvar%
+	type halo3aio.cmds
+
+) | ..\..\..\FMM\TagTool\TagTool.exe ..\..\..\maps\tags.dat

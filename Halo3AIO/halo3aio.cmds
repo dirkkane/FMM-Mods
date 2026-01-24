@@ -1,0 +1,4 @@
+openmodpackage moddir\halo3aio.pak
+ApplyModPackage
+exitmodpackage
+Exit
