@@ -10,3 +10,4 @@ https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/FyzuresSpartanRetextu
 https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/BrutalDoomVoice/brutaldoom.ini
 https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/H5AR/h5ar.ini
 https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/RegeneratorShieldFX/regeneratorshieldfx.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/H2A_BeamRifle/h2a_beamrifle.ini
