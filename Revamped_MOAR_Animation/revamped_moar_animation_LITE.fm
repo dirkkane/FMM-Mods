@@ -1,7 +1,7 @@
 @ECHO off
 ECHO FMM_OUTPUT Installing Revamped MOAR Animation LITE...
 
-cd mods\tagMods\Revamped_MOAR_Animation LITE
+cd mods\tagMods\Revamped_MOAR_Animation
 set setvar=setvariable moddir "%cd%"
 
 (
