@@ -2,3 +2,5 @@ https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/2020_Vision/2020visio
 https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/Halo3Hud/halo3hud.ini
 https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/Halo3Vehicles/halo3vehicles.ini
 https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/Halo3Weapons/halo3weaps.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/Revamped_MOAR_Animation/revamped_moar_animation.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/Revamped_MOAR_Animation/revamped_moar_animation_LITE.ini
