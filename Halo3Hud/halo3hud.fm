@@ -1,5 +1,5 @@
 @ECHO off
-ECHO FMM_OUTPUT Installing Halo 3 Vehicles...
+ECHO FMM_OUTPUT Installing Halo 3 HUD...
 
 cd mods\tagMods\Halo3Hud
 set setvar=setvariable moddir "%cd%"
