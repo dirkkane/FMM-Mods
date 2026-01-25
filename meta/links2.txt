@@ -4,3 +4,9 @@ https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/Halo3Vehicles/halo3ve
 https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/Halo3Weapons/halo3weaps.ini
 https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/Revamped_MOAR_Animation/revamped_moar_animation.ini
 https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/Revamped_MOAR_Animation/revamped_moar_animation_LITE.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/NobleSixVoicePack/noblesixvoice.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/RookieVoicePack/rookievoice.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/FyzuresSpartanRetexture/fyzurespartan.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/BrutalDoomVoice/brutaldoom.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/H5AR/h5ar.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/RegeneratorShieldFX/regeneratorshieldfx.ini
