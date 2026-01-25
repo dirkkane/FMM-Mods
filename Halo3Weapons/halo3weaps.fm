@@ -2,7 +2,6 @@
 ECHO FMM_OUTPUT Installing Halo 3 Weapons...
 
 cd mods\tagMods\Halo3Weapons
-set moddir="%cd%"
 set setvar=setvariable moddir "%cd%"
 
 (

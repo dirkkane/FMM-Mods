@@ -2,7 +2,6 @@
 ECHO FMM_OUTPUT Installing Halo 3 Vehicles...
 
 cd mods\tagMods\Halo3Vehicles
-set moddir="%cd%"
 set setvar=setvariable moddir "%cd%"
 
 (
