@@ -11,3 +11,13 @@ https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/BrutalDoomVoice/bruta
 https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/H5AR/h5ar.ini
 https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/RegeneratorShieldFX/regeneratorshieldfx.ini
 https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/H2A_BeamRifle/h2a_beamrifle.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/Better_3P_Animation/Better_3P_Animation.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/3PAmmo_Counter/3PAmmoCounter.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/Carbine_VariantFixup/CarbineTextureFixup.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/ExtremeHUDShake/ExtremeHUDShake.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/HIGHDETAIL_BubbleShield/BubbleShieldHIGHDETAIL.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/LOWDETAIL_BubbleShield/BubbleShieldLOWDETAIL.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/Minelelol_BetterGOLD/Gold.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/Minelelol_Halo3InspiredHUD/H3InspiredHUD.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/Minelelol_Weapons_Skin/MinelelolWeaponSkin.ini
+https://raw.githubusercontent.com/dirkkane/FMM-Mods/master/RipOFFH3Warthog/RipOFFH3Warthog.ini
